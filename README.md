@@ -5,28 +5,10 @@ Clone the repository and install required Python packages:
 
 git clone [https://github.com/somu-sartungi10/Bitcoin_Transaction_Analysis.git](https://github.com/somu-sartungi10/Bitcoin_Transaction_Analysis.git)
 
-cd Bitcoin_Transaction_Analysis
-pip install -r requirements.txt
-=======
 # 🪙 Bitcoin Transaction Analysis
 
 A full-stack application for analyzing and modeling Bitcoin transactions, featuring a React frontend, a Spring Boot backend API, and a Python Machine Learning engine.
 
----
-
-## 🏗️ Project Architecture
-
-```text
-Bitcoin_transaction_analysis/
-├── frontend/           # UI built with React / Node.js
-├── backend/            # Core REST API built with Java & Spring Boot
-├── ml_engine/          # Python ML pipeline & data processing
-│   ├── environment.yml # Conda environment dependencies
-│   ├── main.py         # Main ML entry point
-│   ├── ingestion.py    # Data ingestion logic
-│   └── generator.py    # Synthetic transaction generator script
-├── data/               # Raw and processed datasets (git-ignored)
-└── scripts/            # Utility and automation scripts
 🚀 Getting Started
 Follow these steps to set up your local development environment.
 
