@@ -64,6 +64,5 @@ Push your branch to GitHub:
 
 Bash
 git push origin feature/your-feature-name
-Open a Pull Request (PR):
-Go to GitHub, click "Compare & pull request", ask a teammate for code review, and merge into main.
-b621e830fb55e0e6f0c7723154b1e5ccab65d808
+Go to github and open pull request
+
