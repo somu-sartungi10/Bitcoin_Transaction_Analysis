@@ -18,3 +18,9 @@ Thumbs.db
 .pkl
 *.joblib
 .idea/
+
+# Generated ML outputs
+ml_engine/outputs/
+
+# Trained model artifacts
+model/

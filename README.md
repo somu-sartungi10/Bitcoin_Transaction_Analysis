@@ -1,5 +1,4 @@
- HEAD
-🚀 Quickstart Guide
+ 🚀 Quickstart Guide
 1. Prerequisites & Installation
 Clone the repository and install required Python packages:
 
