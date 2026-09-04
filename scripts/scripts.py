@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 output_path = Path("data/raw/synthetic_raw_data.csv")
-
+output_path.parent.mkdir(parents=True, exist_ok=True)
 
 fake = Faker()
 Faker.seed(42)
