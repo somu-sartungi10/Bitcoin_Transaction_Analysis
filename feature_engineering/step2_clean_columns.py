@@ -1,6 +1,6 @@
 import ast
 import pandas as pd
-from ml_engine.feature_engineering.step1_load_data import load_raw_csv
+from feature_engineering.step1_load_data import load_raw_csv
 
 
 def safe_eval_list(x):

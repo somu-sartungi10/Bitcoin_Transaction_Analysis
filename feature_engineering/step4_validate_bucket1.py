@@ -1,7 +1,7 @@
 import pandas as pd
-from ml_engine.feature_engineering.step1_load_data import load_raw_csv
-from ml_engine.feature_engineering.step2_clean_columns import clean_columns
-from ml_engine.feature_engineering.step3_transaction_features import build_transaction_features
+from feature_engineering.step1_load_data import load_raw_csv
+from feature_engineering.step2_clean_columns import clean_columns
+from feature_engineering.step3_transaction_features import build_transaction_features
 
 
 if __name__ == "__main__":

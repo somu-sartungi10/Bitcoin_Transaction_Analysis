@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-from ml_engine.feature_engineering.step1_load_data import load_raw_csv
-from ml_engine.feature_engineering.step2_clean_columns import clean_columns
+from feature_engineering.step1_load_data import load_raw_csv
+from feature_engineering.step2_clean_columns import clean_columns
 
 
 def build_transaction_features(df):
